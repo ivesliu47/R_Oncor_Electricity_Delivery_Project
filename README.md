@@ -4,4 +4,4 @@ Recent studies showed that Electric Vehicles(EV) charging has a large impact on 
 
 For this project, we use Non-Intrusive Load Monitoring(NILM) model to transfer the long electricity signal to several peaks.Then we will have several useful variables including: the duration of peaks, the hight of the peaks and the frequency of peaks. Finally, we use KNN machine learning models to identify which kinds of peaks are more likely to be EV users pattern. The accuracy rate of this combined model is 83.6% in a test dataset.
 
-Welcome to read the **final report** to understand this project!
+Welcome to read the **Final Report** to understand this project!
